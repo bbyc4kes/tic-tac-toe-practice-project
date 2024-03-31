@@ -24,8 +24,6 @@ This project is a simple implementation of the classic Tic-Tac-Toe game built us
 
 ## Contributors
 
-- [Your Name](link-to-your-profile) - Role (e.g., Developer, Designer, etc.)
-
-## License
+- [Maksym Azimov]([link-to-your-profile](https://github.com/bbyc4kes)) - Developer
 
 This project is licensed under the [MIT License](LICENSE).
